@@ -12,4 +12,5 @@ This repository contains the code and resources for the study of linguistic and 
 - Folder 'code' contains the .py for calculating each feature in our study.
 - RAID_official.ipynb contains all the analysis and the visualization implemented in the study.
 
-Note: Due to file size constraints, the raid.csv dataset required for feature calculation is not included in the repository. To load it, run the initial code snippet in RAID_official.ipynb.
+### Note: 
+Due to file size constraints, the raid.csv dataset required for feature calculation is not included in the repository. To load it, run the initial code snippet in RAID_official.ipynb.
